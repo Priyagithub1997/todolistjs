@@ -1,0 +1,34 @@
+.todolist{
+    text-align: center;
+margin: 20px auto;
+
+}
+.todolist input{
+    width: 50%;
+    padding: 20px;
+}
+.todolist button{
+    padding: 15px 40px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+
+}
+
+#list{
+   
+    font-size: 20px;
+    width: 20%;
+    
+    list-style-type:decimal;
+    margin: 20px auto;
+   
+   
+}
+
+#list li{
+   margin-bottom: 20px;
+   background-color: lightgray;
+   padding:  10px 30px;
+}
+
